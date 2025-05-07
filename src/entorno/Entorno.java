@@ -31,4 +31,9 @@ public class Entorno {
         return num;
     }
     
+    public static int suma(int a, int b){
+        int num;
+        num = a +b;
+        return num;
+    }
 }
